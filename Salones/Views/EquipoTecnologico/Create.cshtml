@@ -1,0 +1,45 @@
+﻿@model Salones.Models.EquipoTecnologico
+
+@{
+    ViewData["Title"] = "Crear";
+}
+
+<h1 class="text-light text-center">Crear</h1>
+
+<h4 class="text-light text-center mb-4">Equipo Tecnológico</h4>
+<hr class="border-light" />
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Create" class="bg-dark p-4 rounded shadow-sm">
+                <div class="form-group mb-3">
+                    <label for="Nombre" class="text-light">Nombre</label>
+                    <input type="text" class="form-control" id="Nombre" name="Nombre" required />
+                </div>
+
+                <div class="form-group mb-3">
+                    <label for="SalonId" class="text-light">Salon</label>
+                    <select class="form-control" id="SalonId" name="SalonId" required>
+                        @foreach (var salon in ViewBag.Salones)
+                        {
+                            <option value="@salon.Id">@salon.Nombre</option>
+                        }
+                    </select>
+                </div>
+
+                <button type="submit" class="btn btn-primary w-100">Crear Equipo Tecnológico</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="text-center mt-3">
+    <a asp-action="Index" class="btn btn-secondary">Volver a la Lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

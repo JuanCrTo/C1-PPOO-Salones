@@ -1,0 +1,47 @@
+﻿@model Salones.Models.EquipoTecnologico
+
+@{
+    ViewData["Title"] = "Eliminar";
+}
+
+<h1 class="text-light text-center">Eliminar</h1>
+
+<h3 class="text-light text-center mb-4">¿Estás seguro de eliminar este equipo tecnológico?</h3>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="bg-dark p-4 rounded shadow-sm">
+                <h4 class="text-light">Equipo Tecnológico</h4>
+                <hr class="border-light" />
+                <dl class="row text-light">
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.Nombre)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Nombre)
+                    </dd>
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.Salon)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Salon.Nombre) <!-- Mostrar el nombre del salón, no solo el Id -->
+                    </dd>
+                </dl>
+
+                <form asp-action="Delete" method="post" class="text-center">
+                    <input type="hidden" asp-for="Id" />
+                    <button type="submit" class="btn btn-danger w-100 mb-2">Eliminar</button>
+                    <br />
+                    <a asp-action="Index" class="btn btn-secondary w-100">Volver a la Lista</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

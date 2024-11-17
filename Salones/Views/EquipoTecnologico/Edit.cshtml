@@ -1,0 +1,56 @@
+﻿@model Salones.Models.EquipoTecnologico
+
+@{
+    ViewData["Title"] = "Editar";
+}
+
+<h1 class="text-light text-center">Editar</h1>
+
+<h4 class="text-light text-center mb-4">Equipo Tecnológico</h4>
+<hr class="border-light" />
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Edit" class="bg-dark p-4 rounded shadow-sm">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                <!-- Hidden input for ID -->
+                <input type="hidden" asp-for="Id" />
+
+                <!-- Nombre Field -->
+                <div class="form-group mb-3">
+                    <label asp-for="Nombre" class="text-light control-label">Nombre del Equipo</label>
+                    <input asp-for="Nombre" class="form-control" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+
+                <!-- Salon Field -->
+                <div class="form-group mb-3">
+                    <label for="SalonId" class="text-light control-label">Salón</label>
+                    <select class="form-control" id="SalonId" name="SalonId" required>
+                        @foreach (var salon in ViewBag.Salones)
+                        {
+                            <option value="@salon.Id">@salon.Nombre</option>
+                        }
+                    </select>
+                </div>
+
+                <!-- Submit Button -->
+                <div class="form-group mb-3">
+                    <input type="submit" value="Guardar" class="btn btn-primary w-100" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="text-center mt-3">
+    <a asp-action="Index" class="btn btn-secondary">Volver a la Lista</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

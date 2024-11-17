@@ -1,0 +1,61 @@
+﻿@model Salones.Models.Reserva
+
+@{
+    ViewData["Title"] = "Detalles";
+}
+
+<h1 class="text-light text-center">Detalles de la Reserva</h1>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="bg-dark p-4 rounded shadow-sm">
+                <h4 class="text-light">Reserva</h4>
+                <hr class="border-light" />
+                <dl class="row text-light">
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.FechaInicio)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.FechaInicio)
+                    </dd>
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.FechaFin)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.FechaFin)
+                    </dd>
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.Estado)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Estado)
+                    </dd>
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.Usuario)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Usuario.Id)
+                    </dd>
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.Salon)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Salon.Id)
+                    </dd>
+                </dl>
+
+                <div class="text-center">
+                    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-primary w-100 mb-2">Editar</a>
+                    <a asp-action="Index" class="btn btn-secondary w-100">Volver a la Lista</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

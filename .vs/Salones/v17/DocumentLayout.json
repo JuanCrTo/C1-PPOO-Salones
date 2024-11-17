@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\controllers\\equipotecnologicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\controllers\\equipotecnologicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\equipotecnologico\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\equipotecnologico\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\reserva\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\reserva\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\salon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\salon\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\reserva\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\reserva\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\equipotecnologico\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\equipotecnologico\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\salon\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\salon\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\equipotecnologico\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\equipotecnologico\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\reserva\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\reserva\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\salon\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\salon\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\salon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\salon\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\reserva\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\equipotecnologico\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\equipotecnologico\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\equipotecnologico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\equipotecnologico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\salon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\salon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|c:\\users\\user\\desktop\\personal\\ut\\materias\\ppoo\\salones\\salones\\salones\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDC04369-4721-4B80-86DD-2ADF9841DEC7}|Salones\\Salones.csproj|solutionrelative:salones\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Salones\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Salones\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:43:15.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Salones\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Salones\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:42:19.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Usuario\\Details.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Usuario\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Usuario\\Details.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Usuario\\Details.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:10:23.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Salon\\Details.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Salon\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Salon\\Details.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Salon\\Details.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:08:44.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Reserva\\Details.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Reserva\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Reserva\\Details.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Reserva\\Details.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:06:01.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\EquipoTecnologico\\Details.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\EquipoTecnologico\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\EquipoTecnologico\\Details.cshtml",
+              "RelativeToolTip": "Salones\\Views\\EquipoTecnologico\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T22:52:11.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Usuario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Usuario\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Usuario\\Edit.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Usuario\\Edit.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:10:40.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Reserva\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Reserva\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Reserva\\Delete.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Reserva\\Delete.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwDEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:05:26.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "Salones\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "Salones\\Controllers\\ReservaController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAiwH4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:46:11.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EquipoTecnologicoController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Controllers\\EquipoTecnologicoController.cs",
+              "RelativeDocumentMoniker": "Salones\\Controllers\\EquipoTecnologicoController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Controllers\\EquipoTecnologicoController.cs",
+              "RelativeToolTip": "Salones\\Controllers\\EquipoTecnologicoController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAowE4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:46:08.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\EquipoTecnologico\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\EquipoTecnologico\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\EquipoTecnologico\\Delete.cshtml",
+              "RelativeToolTip": "Salones\\Views\\EquipoTecnologico\\Delete.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:30:55.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Salon\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Salon\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Salon\\Delete.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Salon\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:08:20.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Usuario\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Usuario\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Usuario\\Delete.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Usuario\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:09:54.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:09:37.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\EquipoTecnologico\\Create.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\EquipoTecnologico\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\EquipoTecnologico\\Create.cshtml",
+              "RelativeToolTip": "Salones\\Views\\EquipoTecnologico\\Create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:05:01.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Salon\\Create.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Salon\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Salon\\Create.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Salon\\Create.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:08:05.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\EquipoTecnologico\\Index.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\EquipoTecnologico\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\EquipoTecnologico\\Index.cshtml",
+              "RelativeToolTip": "Salones\\Views\\EquipoTecnologico\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T22:52:15.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Reserva\\Create.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Reserva\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Reserva\\Create.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Reserva\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:05:03.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Salon\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Salon\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Salon\\Edit.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Salon\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:08:58.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Reserva\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Reserva\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Reserva\\Edit.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Reserva\\Edit.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T22:41:51.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\EquipoTecnologico\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\EquipoTecnologico\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\EquipoTecnologico\\Edit.cshtml",
+              "RelativeToolTip": "Salones\\Views\\EquipoTecnologico\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T21:58:19.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:11:08.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Salon\\Index.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Salon\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Salon\\Index.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Salon\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:09:13.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwFYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:04:26.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Reserva\\Index.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Reserva\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Reserva\\Index.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Reserva\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:06:41.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T23:00:30.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Salones\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PERSONAL\\UT\\Materias\\PPOO\\Salones\\Salones\\Salones\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Salones\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T22:52:21.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

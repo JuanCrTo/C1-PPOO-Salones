@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenidos</h1>
+    <header>
+        <h1>Sistema de Reservas de Salones</h1>
+        <p>Descripción: Una app para gestionar la reserva de salas de conferencias en una universidad o empresa.</p>
+    </header>
+
+    <section>
+        <h2>Modelos</h2>
+        <ul>
+            <li><strong>Salon:</strong> Incluye información sobre el número del salón, capacidad y ubicación.</li>
+            <li><strong>Usuario:</strong> Representa a los empleados o estudiantes que realizan reservas.</li>
+            <li><strong>Reserva:</strong> Conecta a los usuarios con los salones, incluyendo fecha y hora.</li>
+            <li><strong>EquipoTecnologico:</strong> Detalla equipos disponibles en cada salón (proyector, PC, etc.).</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Relaciones</h2>
+        <ul>
+            <li>Un <strong>Salon</strong> puede tener varios <strong>EquiposTecnologicos</strong>.</li>
+            <li>Un <strong>Usuario</strong> puede hacer varias <strong>Reservas</strong>.</li>
+            <li>Una <strong>Reserva</strong> debe estar asociada a un único <strong>Salon</strong>.</li>
+        </ul>
+    </section>
+</div>
